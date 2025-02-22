@@ -1,6 +1,18 @@
 {
-    "name": "LemonSignal",
+    "name": "project",
     "tree": {
-        "$path": "src/LemonSignal.lua"
+        "$className": "DataModel",
+        "ReplicatedStorage": {
+            "$ignoreUnknownInstances": true,
+            "signal": {
+                "$path": "src/lib.luau"
+            }
+        },
+        "ServerScriptService": {
+            "$ignoreUnknownInstances": true,
+            "dev": {
+                "$path": "dev"
+            }
+        }
     }
 }
