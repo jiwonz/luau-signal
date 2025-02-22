@@ -1,0 +1,4 @@
+std = "luau+roblox"
+
+[config.global_usage]
+ignore_pattern = "LUA_ENV"

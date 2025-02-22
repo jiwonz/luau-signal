@@ -1,8 +1,6 @@
-docs/.vitepress/dist
-docs/.vitepress/cache
-node_modules
+luau_packages
+lune_packages
+
 sourcemap.json
-build
-profile.out
-profile.svg
-__pycache__
+
+/target

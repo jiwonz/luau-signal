@@ -1,0 +1,10 @@
+{
+  "aliases": {
+    "luau_pkg": "./luau_packages/",
+    "pkg": "./lune_packages/"
+  },
+  "languageMode": "strict",
+  "lint": {
+    "LocalShadow": false
+  }
+}
