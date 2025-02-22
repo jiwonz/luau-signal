@@ -5,6 +5,7 @@ authors = ["jiwonz <me@jiwonz.kr>", "Aspecky", "Sona"]
 repository = "https://github.com/jiwonz/luau-signal"
 license = "MIT"
 private = true
+includes = ["LICENSE", "README.md", "src/**", "pesde.toml"]
 
 [target]
 environment = "lune"
